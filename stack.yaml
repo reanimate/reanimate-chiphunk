@@ -1,0 +1,12 @@
+resolver: lts-16.0
+
+allow-newer: false
+
+packages:
+- .
+
+extra-deps:
+- ../reanimate
+- chiphunk-0.1.2.1@sha256:1e17e0e3d2fc91317e2cfcb8fd9f7add4a5038d76a4ae6b444641c0a2adec881,4619
+- earcut-0.1.0.4@sha256:d5118b3eecf24d130263d81fb30f1ff56b1db43036582bfd1d8cc9ba3adae8be,1010
+- reanimate-svg-0.10.0.0@sha256:1bbe318df56eaeb3fb18ef8148e5fca6c385dd0e18d22de60fbf003d897c4c1d,2508
